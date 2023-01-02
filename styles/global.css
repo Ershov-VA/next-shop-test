@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ddd;
+}
+
+.container {
+    max-width: 1180px;
+    width: 100%;
+    display: flex;
+    margin: 0px auto;
+}
